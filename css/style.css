@@ -326,6 +326,9 @@ a.sitename {
 #navigation li a:hover, #navigation li.selected a {
 	background-position: 24px -162px;
 }
+#navigation li.promo a {
+	font-size: 19px;
+}
 /** connect **/
 #connect {
 	background-color: #fef1bf;
